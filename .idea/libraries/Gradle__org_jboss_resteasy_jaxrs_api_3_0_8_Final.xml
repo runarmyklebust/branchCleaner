@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: org.jboss.resteasy:jaxrs-api:3.0.8.Final">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/resteasy/jaxrs-api/3.0.8.Final/jaxrs-api-3.0.8.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
