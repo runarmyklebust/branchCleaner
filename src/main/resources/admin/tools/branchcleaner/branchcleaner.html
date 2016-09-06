@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>branchCleaner</title>
+</head>
+<body>
+<h1>Branch Cleaner</h1>
+
+<h3>Content in branch [{{source}}] that are not in branch [{{target}}]:</h3>
+
+<form action="{{url}}" method="post">
+    <table border="1px">
+        <th>Deletion</th>
+        </ht>
+        <th>path</th>
+        <th>displayName</th>
+        <th>id</th>
+        {{#inSourceOnly}}
+        <tr>
+            <td><input type="checkbox" name="toDelete" value="{{id}}"/></td>
+            <td>{{path}}</td>
+            <td>{{displayName}}</td>
+            <td>{{id}}</td>
+        </tr>
+        {{/inSourceOnly}}
+    </table>
+    <br/>
+    <input type="submit" value="Do delete in {{source}}">
+</form>
+
+
+</body>
+</html>

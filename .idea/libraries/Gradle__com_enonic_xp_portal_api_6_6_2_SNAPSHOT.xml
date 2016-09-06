@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.enonic.xp:portal-api:6.6.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enonic.xp/portal-api/6.6.2-SNAPSHOT/14058d0ecb3c1264de83f93e75e53f78d309219c/portal-api-6.6.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enonic.xp/portal-api/6.6.2-SNAPSHOT/42a4755f7bf6e3fb1bc992584485c10a86e47e8/portal-api-6.6.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

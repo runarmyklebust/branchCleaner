@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.enonic.xp:web-api:6.6.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enonic.xp/web-api/6.6.2-SNAPSHOT/bb842bfcda358a04698e1935419a04b19de81552/web-api-6.6.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.enonic.xp/web-api/6.6.2-SNAPSHOT/34852ec82e9cdea7ea2337b712bb6a709db5b52/web-api-6.6.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
